@@ -1,7 +1,17 @@
 # MakeSafe-MS-20-I.P.E.-Protective-Glasses
 
-Legal advice:
+👨🏻‍💻 New webpage coming soon: https://makesafems-20.bygerardvisuals.com
 
-The I.P.E MakeSafe MS-20 Safety Glasses, were created by Gerard Valls Montaño. All the files related, are registered by Gerard Valls Montaño, under “CERN Open Hardware Licence Version 2" - Strongly Reciprocal.
+🎉 Universal safety googles Released 🎉 
+
+🔜 COVID-19 safety googles coming soon 🔜
+
+🔜 Laser cutting safety googles coming soon 🔜
+
+
+
+⚖️ Legal advice: ⚖️
+
+The MakeSafe MS-20 Safety Googles, were created by Gerard Valls Montaño. All related files, are registered by Gerard Valls Montaño, under “CERN Open Hardware Licence Version 2" - Strongly Reciprocal.
 
 First Versions: https://www.thingiverse.com/thing:4234283
