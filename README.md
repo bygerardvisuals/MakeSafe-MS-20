@@ -1,4 +1,4 @@
-# MakeSafe-MS-20-I.P.E.-Protective-Glasses
+# MakeSafe-MS-20-Safety-Googles
 
 👨🏻‍💻 New webpage coming soon: https://makesafems-20.bygerardvisuals.com
 
